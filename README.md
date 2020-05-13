@@ -9,11 +9,15 @@ The File Transfer Protocol (FTP) is a standard network protocol used for the tra
 
 # Execution
 Install java on your Ubuntu terminal or subsystem.
+
 First run the server program by using the command: 
 sudo java server.java
+
 As we are using port 21 for FTP to run any port under 1024 we need root access as port 21 is a privileged port.  
+
 Then run the client program by using the command:
 java client.java
+
 Then you can give commands to the programs on the client side.
 
 
