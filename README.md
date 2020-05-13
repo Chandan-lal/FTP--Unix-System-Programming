@@ -8,7 +8,7 @@ The File Transfer Protocol (FTP) is a standard network protocol used for the tra
 
 
 ## Execution
-*Install java on your Ubuntu terminal or subsystem.
+* Install java on your Ubuntu terminal or subsystem.
 
 * First run the server program by using the command: 
   ***sudo java server.java***
